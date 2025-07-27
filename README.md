@@ -28,7 +28,4 @@ A static clone of the Flipkart homepage built using **pure HTML and CSS**. This 
 - Deal banners, offers, and cards styled using Flexbox/Grid
 - Responsive design layout for desktop and mobile
 
----
-
-## 📂 Folder Structure
 
